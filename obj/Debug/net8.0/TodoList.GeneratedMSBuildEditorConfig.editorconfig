@@ -26,12 +26,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/mac/Desktop/Todo/TodoList
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/mac/Desktop/Todo/TodoList/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[/Users/mac/Desktop/Todo/TodoList/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mac/Desktop/Todo/TodoList/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+[/Users/mac/Desktop/Todo/TodoList/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/mac/Desktop/Todo/TodoList/Views/Shared/Error.cshtml]
